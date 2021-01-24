@@ -1,9 +1,9 @@
-import Contact from './components/Contact';
+import ContactList from './components/ContactList';
 
 function App() {
   return (
     <div className="Contact">
-      <Contact />
+      <ContactList />
     </div>
   );
 }
